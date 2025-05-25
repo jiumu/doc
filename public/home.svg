@@ -1,0 +1,9 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#1e88e5" rx="8"/>
+  <path d="M200 150L400 250L600 150" stroke="#ffffff" stroke-width="8" fill="none"/>
+  <circle cx="200" cy="150" r="20" fill="#ffffff"/>
+  <circle cx="400" cy="250" r="20" fill="#ffffff"/>
+  <circle cx="600" cy="150" r="20" fill="#ffffff"/>
+  <text x="400" y="100" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">JiuMu Docs</text>
+  <text x="400" y="350" font-size="24" fill="#ffffff" text-anchor="middle">汇聚开发智慧 加速技术成长</text>
+</svg>
