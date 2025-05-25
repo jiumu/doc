@@ -13,6 +13,7 @@ dist-ssr
 *.local
 src/assets/iconify.json
 .vitepress/dist
+.vitepress/cache
 
 # Editor directories and files
 .vscode/*
